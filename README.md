@@ -1,4 +1,4 @@
-# Dojo Python
+# Curso Python
 
 Sexta-feira: 14 horas
 
