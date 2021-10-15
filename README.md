@@ -9,3 +9,10 @@ Sexta-feira: 14 horas
 - IDE
 - PIP
 - VirtualEnv
+
+## Tipagem
+
+logico: bool = True / False
+inteiro: int = 12
+string: str = "imposto é roubo"
+decimal: float = 3.14
